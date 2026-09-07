@@ -13,8 +13,8 @@ export const profile = {
 
   // TODO: review / rewrite in your own voice. Drafted from your resume.
   about: [
-    "I'm a Data Analyst at LatentView Analytics, currently working on Xbox subscription and console engagement analytics for Microsoft. I build large-scale distributed data pipelines and turn messy telemetry into reporting datasets and KPIs that product and monetization teams actually use.",
-    "My day-to-day is SQL, PySpark, Python and Microsoft SCOPE across Azure Data Lake, Databricks and Cosmos. I've built subscription lifecycle analytics for Xbox Game Pass and EA Play, console reactivation analysis, and month-over-month retention and conversion reporting.",
+    "I'm a Data Analyst at an analytics consulting firm, currently working on subscription and device-engagement analytics for a global gaming & entertainment platform. I build large-scale distributed data pipelines and turn messy telemetry into reporting datasets and KPIs that product and monetization teams actually use.",
+    "My day-to-day is SQL, PySpark, Python and Microsoft SCOPE across Azure Data Lake, Databricks and Cosmos. I've built subscription lifecycle analytics across first-party and partner subscription services, device reactivation analysis, and month-over-month retention and conversion reporting.",
     "Outside client work I like building end-to-end data projects (a real-time fraud detection pipeline on Kafka + Spark Structured Streaming, a university knowledge graph benchmarked against LLMs) and writing about Large Language Models on Medium.",
   ],
 

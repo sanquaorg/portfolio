@@ -32,24 +32,24 @@ export const experience: {
 }[] = [
   {
     role: "Data Analyst",
-    company: "LatentView Analytics",
+    company: "Analytics Consulting Firm",
     location: "Chennai",
     period: "November 2024 – Present",
-    context: "Xbox Analytics (Client: Microsoft) — Subscription & Console Engagement Analytics",
+    context: "Subscription & device-engagement analytics for a global gaming & entertainment platform",
     bullets: [
-      "Built large-scale distributed data pipelines using Microsoft SCOPE on ADLA and Cosmos clusters to process millions of subscription and console telemetry records.",
-      "Engineered end-to-end subscription lifecycle analytics for Xbox Game Pass and EA Play — acquisitions, renewals, cancellations, expirations and SKU-level conversions.",
-      "Developed bundle conversion logic using SubscriptionEvents and SIM datasets to track EA Play users converting to Xbox Game Pass Ultimate across multiple SKUs and recurrence IDs.",
+      "Built large-scale distributed data pipelines using Microsoft SCOPE on ADLA and Cosmos clusters to process millions of subscription and device telemetry records.",
+      "Engineered end-to-end subscription lifecycle analytics across first-party and partner subscription services — acquisitions, renewals, cancellations, expirations and SKU-level conversions.",
+      "Developed bundle conversion logic from event and subscription datasets to track partner-service users converting to the premium subscription tier across multiple SKUs and recurrence IDs.",
       "Built month-over-month acquisition, retention and conversion reports supporting monetization strategy and subscriber growth decisions.",
-      "Designed console reactivation analysis identifying inactive devices returning to active usage, with inactivity periods from 1 to 6+ months.",
-      "Analyzed Monthly Active Device (MAD) and Rolling Active Console metrics by integrating gameplay, application usage and revenue datasets into consolidated engagement views.",
+      "Designed device reactivation analysis identifying inactive devices returning to active usage, with inactivity periods from 1 to 6+ months.",
+      "Analyzed Monthly Active Device (MAD) and rolling active-device metrics by integrating usage, application and revenue datasets into consolidated engagement views.",
       "Applied deduplication (ARGMAX, aggregation) and query optimization to improve performance and accuracy on large-scale distributed SCOPE queries.",
-      "Completed company Boot Camp Training and earned the Databricks Data Engineer Associate certification (93.2%) during onboarding (Nov 2024 – Apr 2025).",
+      "Completed company boot-camp training and earned the Databricks Data Engineer Associate certification (93.2%) during onboarding (Nov 2024 – Apr 2025).",
     ],
   },
   {
     role: "Project Intern",
-    company: "Fractal Analytics",
+    company: "Analytics Firm",
     location: "Bengaluru",
     period: "August 2023 – September 2023",
     bullets: [
